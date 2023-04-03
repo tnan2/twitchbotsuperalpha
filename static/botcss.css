@@ -1,0 +1,30 @@
+/* Box styling */
+.container {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #f7f7f7;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Header styling */
+h1 {
+  font-size: 36px;
+  margin-top: 0;
+}
+
+/* Paragraph styling */
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+/* Image styling */
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
