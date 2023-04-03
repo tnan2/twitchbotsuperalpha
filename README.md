@@ -1,5 +1,3 @@
-# twitchbotsuperalpha
-Supertwitchbotalpha
  SuperDuperTwitchBot
     Copyright (C) <2023>  <Travis Nan tnan2>
 
